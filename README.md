@@ -32,4 +32,15 @@ Formlar ve API Entegrasyonu:
 Bu proje, kullanıcıların mobil cihazlarda kolay, hızlı ve keyifli bir alışveriş deneyimi yaşamasını sağlamayı amaçlamaktadır. Dinamik tasarımı, kullanıcı dostu navigasyonu ve performans odaklı mimarisi sayesinde modern e-ticaret uygulamalarına ilham veren bir örnek teşkil etmektedir.
 
 📱 Daha fazla bilgi ve projelerimi keşfetmek için bana ulaşabilirsiniz!
+
 #ReactNative #AmazonClone #MobileAppDevelopment #EcommerceApp #Expo #Redux
+
+### GIF
+
+###  Designed by <a href="https://www.linkedin.com/feed/update/urn:li:activity:7272188749919186944/" target="_blank">Hüseyin ASLAN</a> 
+
+
+
+![](./assets/record/Amazon.gif)
+
+
