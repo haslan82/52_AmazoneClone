@@ -10,10 +10,8 @@ Ana Sayfa: Ürün kategorileri, kampanyalar ve dinamik bir banner karuseli.
 Akıcı Navigasyon: Hızlı ve kesintisiz sayfa geçişleri için React Navigation kullanımı.
 Responsive Tasarım: Farklı ekran boyutlarına ve cihazlara uygun esnek arayüz.
 
-
 📚 Kullanılan Teknolojiler ve Kütüphaneler:
 Çekirdek Teknolojiler:
-
 
 ✅ React Native: Uygulamanın temel yapısı.
 ✅ Expo: Hızlı geliştirme ortamı ve araçlar.
@@ -33,7 +31,6 @@ Formlar ve API Entegrasyonu:
 ✅ Redux: Uygulama durum yönetimi için güçlü bir yapı.
 
 
-
 🌟 Proje Hedefi:
 
 Bu proje, kullanıcıların mobil cihazlarda kolay, hızlı ve keyifli bir alışveriş deneyimi yaşamasını sağlamayı amaçlamaktadır. Dinamik tasarımı, kullanıcı dostu navigasyonu ve performans odaklı mimarisi sayesinde modern e-ticaret uygulamalarına ilham veren bir örnek teşkil etmektedir.
@@ -43,12 +40,9 @@ Bu proje, kullanıcıların mobil cihazlarda kolay, hızlı ve keyifli bir alı�
 #ReactNative #AmazonClone #MobileAppDevelopment #EcommerceApp #Expo #Redux
 
 
-### GIF
-
 ###  Designed by <a href="https://www.linkedin.com/in/h%C3%BCseyin-aslan-128519203/" target="_blank">Hüseyin ASLAN</a> 
 
-
-
+### GIF
 
 ![](./assets/record/Amazon.gif)
 
