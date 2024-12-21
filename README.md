@@ -38,8 +38,9 @@ Bu proje, kullanıcıların mobil cihazlarda kolay, hızlı ve keyifli bir alı�
 #ReactNative #AmazonClone #MobileAppDevelopment #EcommerceApp #Expo #Redux
 
 📱 Daha fazla bilgi ve projelerimi keşfetmek için bana ulaşabilirsiniz!
-
 ###  Designed by <a href="https://www.linkedin.com/in/h%C3%BCseyin-aslan-128519203/" target="_blank">Hüseyin ASLAN</a> 
+
+
 
 ### GIF
 
